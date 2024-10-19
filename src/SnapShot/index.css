@@ -1,0 +1,14 @@
+.flex-display{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;;
+    column-gap: 5px;
+    row-gap: 5px;
+    justify-content: center;
+}
+.flex-display>img{
+    width: 200px;
+    height: 200px;
+}
+.child-main-div>input{
+    margin: 10px;
+}
